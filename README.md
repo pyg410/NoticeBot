@@ -24,7 +24,7 @@ AI융합대, 소프트웨어공학과 공지사항을 매번 확인하기 귀찮
 - Jakarta Commons email 1.5
 - spring security 5.7.8
 
-# V0
+# [V0](https://github.com/pyg410/NoticeBot/tree/v0)
 
 > 23.04.30 - 23.05.10
 
